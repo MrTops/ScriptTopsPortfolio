@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Introduction
+Hello,
 
-You can use the [editor on GitHub](https://github.com/MrTops/ScriptTopsPortfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I wanted to give you a introduction before I actually get into the projects I've done, mostly for fun, and some as commissions/partnerships.
+I've been coding for 4 years, I started in 5th grade by going to (lua's demo)[https://www.lua.org/demo.html] and just toying around with the language.
+Fast-forward 4 years and I've mastered Lua, Python 3, and Node JS, and learned the basics of Web Languages, C#, and Java.
+I've worked with many studios, and while not all of these partnerships resulted in a final product I learned a lot from each.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- ScriptTops, Programmer
 
-### Markdown
+Discord: DevTops#9999
+Twitter: (here)[https://twitter.com/dev_tops]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Projects
 
-```markdown
-Syntax highlighted code block
+This is a list of projects that I've worked on in a all the coding languages I know, some are finished, some are not, but all of them made me learn.
 
-# Header 1
-## Header 2
-### Header 3
+## Free-Rice-Hack
 
-- Bulleted
-- List
+I got the idea for this in school, it took 15 minutes but was the first time I tried to exploit a website.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Code!
+```js
+let getCard = () => {
+    try {
+        let solution = eval(document.getElementsByClassName("card-title")[0].innerHTML.replace("x", "*").split("=")[0]);
+        let cards = document.getElementsByClassName("card-button");
+        if (cards[0].innerHTML == solution) cards[0].click();
+        else if (cards[1].innerHTML == solution) cards[1].click();
+        else if (cards[2].innerHTML == solution) cards[2].click();
+        else if (cards[3].innerHTML == solution) cards[3].click();
+        else cards[0].click();
+    }
+    catch {
+        try {
+            document.getElementsByClassName("card-button")[0].click();
+        }
+        catch {
+            alert("FATAL ERROR");
+        }
+    }
+};
+setInterval(getCard, 1000);
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+It working!
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrTops/ScriptTopsPortfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://gyazo.com/18adf1bdbc4b955dd57e2f67cbfb9877
