@@ -45,4 +45,4 @@ setInterval(getCard, 1000);
 
 It working!
 
-https://gyazo.com/18adf1bdbc4b955dd57e2f67cbfb9877
+{https://gyazo.com/18adf1bdbc4b955dd57e2f67cbfb9877}
