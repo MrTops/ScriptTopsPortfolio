@@ -63,3 +63,11 @@ Buck Bot is a discord.js discord bot that was going to be a economy bot.
 
 [Code](https://github.com/MrTops/BuckBotCode)
 I don't have any gif of it, but if you want to join the server it's there and I can run the bot for you.
+
+## Mang
+**Python 3**
+
+Mang was my only time trying to make a coding language, the syntax was super lax and was easy to pick up, the github has the language it's self and examples.
+There isn't much about Mang but the code is bad and doesn't represent my current skills, but I felt it's a cool thing I did.
+
+[Code](https://github.com/MrTops/Mang)
