@@ -2,14 +2,14 @@
 > Hello,
 > 
 > I wanted to give you a introduction before I actually get into the projects I've done, mostly for fun, and some as commissions/partnerships.
-> I've been coding for 4 years, I started in 5th grade by going to (lua's demo)[https://www.lua.org/demo.html] and just toying around with the language.
+> I've been coding for 4 years, I started in 5th grade by going to [lua's demo](https://www.lua.org/demo.html) and just toying around with the language.
 > Fast-forward 4 years and I've mastered Lua, Python 3, and Node JS, and learned the basics of Web Languages, C#, and Java.
 > I've worked with many studios, and while not all of these partnerships resulted in a final product I learned a lot from each.
 > 
 > \- ScriptTops, Programmer
 
 Discord: DevTops#9999
-Twitter: (here)[https://twitter.com/dev_tops]
+Twitter: [here](https://twitter.com/dev_tops)
 
 # Projects
 
